@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">I am a software engineering student from Syria</h3>
+<h1>Hi 👋, I'm Ahmad</h1>
+<h3>I am a software engineering student from Syria</h3>
 
 - 🔭 I’m currently working on **Graduation Project**
 
