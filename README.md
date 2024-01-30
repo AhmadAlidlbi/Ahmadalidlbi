@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ahmad</h1>
 <h3>I am a software engineering student from Syria</h3>
 
-📫 reach me **ahmedidlbi@hotmail.com**
+📫 Reach me **ahmedidlbi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
