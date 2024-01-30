@@ -1,11 +1,7 @@
 <h1>Hi 👋, I'm Ahmad</h1>
 <h3>I am a software engineering student from Syria</h3>
 
-- 🔭 I’m currently working on **Graduation Project**
-
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **ahmedidlbi@hotmail.com**
+📫 reach me **ahmedidlbi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
